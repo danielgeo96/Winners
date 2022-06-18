@@ -8,7 +8,7 @@ We are Daniel George and Eden Meshulam and this is our Project.
 [Click here](https://github.com/danielgeo96/Winners/tree/main)
 
 ### Project presentation:  
-[Click here](https://danielgeo96.github.io/Winners/Data%20Science%20Final%20Project.pptx)
+[Click here](https://github.com/danielgeo96/Winners/raw/main/Data%20Science%20Final%20Project.pptx)
  
 If there is any problems / improvment ideas please contect us:  
 **Daniel96geo@gmail.com**
