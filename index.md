@@ -1,4 +1,4 @@
-**hey, 
+**hey**, 
 We are Daniel George and Eden Meshulam and this is our Project.
 
 ### project page :  
@@ -11,6 +11,6 @@ We are Daniel George and Eden Meshulam and this is our Project.
 [click here]
  
 If there is any problems / improvment ideas please contect us:  
-Daniel96geo@gmail.com
+**Daniel96geo@gmail.com**
 
-Thank you very much for watching.
+**Thank you very much for watching.**
