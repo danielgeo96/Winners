@@ -1,13 +1,13 @@
 ##Hey,  
 We are Daniel George and Eden Meshulam and this is our Project.
 
-###project page :  
+### project page :  
 [click here](main.md)
 
-###project repositroy:  
+### project repositroy:  
 [click here](https://github.com/danielgeo96/Winners/tree/main)
 
-###project presentation:  
+### project presentation:  
 [click here]
  
 If there is any problems / improvment ideas please contect us:  
