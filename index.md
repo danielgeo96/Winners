@@ -9,6 +9,9 @@ We are Daniel George and Eden Meshulam and this is our Project.
 
 ### Project presentation:  
 [Click here](https://github.com/danielgeo96/Winners/raw/main/Data%20Science%20Final%20Project.pptx)
+
+### Data resource:  
+[Click here](https://www.worldfootball.net/schedule/esp-primera-division-2021-2022-spieltag/38/)
  
 If there is any problems / improvment ideas please contect us:  
 **Daniel96geo@gmail.com**
